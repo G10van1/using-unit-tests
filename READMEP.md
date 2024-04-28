@@ -4,15 +4,15 @@ ________________________________________________________________________________
 Esta solução é composta por três projetos:
 1. Calculadora simples:
 
-Um projeto que usa as quatro operações matemáticas (Soma. Subtração, Multiplicação e Divisão) com números inteiros. Guarda em uma lista as três últimas operações, para fins de histórico.
+    Um projeto que usa as quatro operações matemáticas (Soma. Subtração, Multiplicação e Divisão) com números inteiros. Guarda em uma lista as três últimas operações, para fins de histórico.
 
 2. XUnit Teste:
   
-  Um projeto usando o framework XUnit para testar as quatro operações, a exceção de número dividido por zero e a lista de histórico das operações.
+    Um projeto usando o framework XUnit para testar as quatro operações, a exceção de número dividido por zero e a lista de histórico das operações.
 
 3. NUnit Teste:
   
-  Um projeto usando o framework NUnit para testar as quatro operações, a exceção de número dividido por zero e a lista de histórico das operações.
+    Um projeto usando o framework NUnit para testar as quatro operações, a exceção de número dividido por zero e a lista de histórico das operações.
 
 ## Objetivos
 O principal objetivo é utilizar as ferramentas XUnit e NUnit para testar um projeto simples de uma calculadora.
