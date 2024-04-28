@@ -16,7 +16,7 @@ This solution is made up of three projects:
 The main objective is to use the XUnit and NUnit tools to test a simple calculator project.
 
 ## Differences between XUnit and NUnit
-Both frameworks have the same purpose. What changes are the commands.
+Both frameworks have the same purpose. What changes are the used commands.
 
 XUnit commands:
    - [Fact]: Used to start a unit test block.
