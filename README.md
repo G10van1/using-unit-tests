@@ -15,6 +15,9 @@ This solution is made up of three projects:
 ## Objectives
 The main objective is to use the XUnit and NUnit tools to test a simple calculator project.
 
+## Differences between XUnit and NUnit
+Both frameworks have the same purpose. What changes are the commands.
+
 XUnit commands:
    - [Fact]: Used to start a unit test block.
    - [Theory] and [InlineData]: Used to test a unit test block with a list of parameters, can repeat numerous calls with different values.
@@ -24,9 +27,6 @@ NUnit commands:
    - [Test]: Used to start a unit test block, run once.
    - [TestCase]: Used to test a unit test block with a list of parameters, can repeat numerous calls with different values.
    - Assert.AreEqual: Tests whether an expected result is equal to the obtained result, if so the test is valid, otherwise invalid.
-
-## Differences between XUnit and NUnit
-Both frameworks have the same purpose. What changes are the commands.
 
 ## Tools
 - Visual Studio 2022
