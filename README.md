@@ -3,10 +3,13 @@ ________________________________________________________________________________
 # Using Unit Tests to Test a Calculator
 This solution is made up of three projects:
 1. Simple Calculator:
+
    A project that uses the four mathematical operations (Addition, Subtraction, Multiplication and Division) with integers. Saves the last three operations in a list, for history purposes.
 2. XUnit Test:
+
    A project using the XUnit framework to test the four operations, the number divided by zero exception, and the operations history list.
 3. NUnit Test:
+
    A project using the NUnit framework to test the four operations, the number divided by zero exception, and the operations history list.
 
 ## Objectives
