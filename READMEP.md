@@ -2,7 +2,7 @@
 _______________________________________________________________________________________________________________________________________
 # Usando Testes Unitários para Testar uma Calculadora
 Esta solução é composta por três projetos:
-1. Calculadora simples
+1. Calculadora simples:
 
 Um projeto que usa as quatro operações matemáticas (Soma. Subtração, Multiplicação e Divisão) com números inteiros. Guarda em uma lista as três últimas operações, para fins de histórico.
 
